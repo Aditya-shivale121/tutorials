@@ -1,2 +1,2 @@
 # tutorials
-this is the tutorial for learning ggit hub
+this is the tutorial for learning git hub
